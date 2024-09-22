@@ -1,0 +1,11 @@
+D:\Programming\web3\Solana\program-examples\basics\transfer-sol\anchor\target\debug\deps\libfragile-9d98c3cfd33279f4.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\errors.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\fragile.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\registry.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\semisticky.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\sticky.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\thread_id.rs
+
+D:\Programming\web3\Solana\program-examples\basics\transfer-sol\anchor\target\debug\deps\fragile-9d98c3cfd33279f4.d: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\errors.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\fragile.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\registry.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\semisticky.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\sticky.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\thread_id.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\errors.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\fragile.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\registry.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\semisticky.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\sticky.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\fragile-2.0.0\src\thread_id.rs:

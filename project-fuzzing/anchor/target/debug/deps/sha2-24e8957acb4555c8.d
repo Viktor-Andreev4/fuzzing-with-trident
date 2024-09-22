@@ -1,0 +1,12 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/libsha2-24e8957acb4555c8.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/x86.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/x86.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/sha2-24e8957acb4555c8.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/x86.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/x86.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/consts.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/soft.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha256/x86.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/soft.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha2-0.9.9/src/sha512/x86.rs:

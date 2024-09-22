@@ -1,0 +1,12 @@
+D:\Programming\web3\Solana\program-examples\basics\transfer-sol\anchor\target\debug\deps\libheck-bde9f32f4bc71c9f.rmeta: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\camel.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\kebab.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\mixed.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_kebab.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_snake.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\snake.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\title.rs
+
+D:\Programming\web3\Solana\program-examples\basics\transfer-sol\anchor\target\debug\deps\heck-bde9f32f4bc71c9f.d: C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\lib.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\camel.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\kebab.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\mixed.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_kebab.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_snake.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\snake.rs C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\title.rs
+
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\lib.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\camel.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\kebab.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\mixed.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_kebab.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\shouty_snake.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\snake.rs:
+C:\Users\PC\.cargo\registry\src\index.crates.io-6f17d22bba15001f\heck-0.3.3\src\title.rs:

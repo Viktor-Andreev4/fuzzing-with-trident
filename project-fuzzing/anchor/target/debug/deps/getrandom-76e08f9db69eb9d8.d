@@ -1,0 +1,11 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/libgetrandom-76e08f9db69eb9d8.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/getrandom-76e08f9db69eb9d8.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/error_impls.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/util_libc.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/use_file.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.1.16/src/linux_android.rs:

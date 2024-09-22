@@ -1,0 +1,10 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/librand_core-0af54f8f33914d37.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/rand_core-0af54f8f33914d37.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs:

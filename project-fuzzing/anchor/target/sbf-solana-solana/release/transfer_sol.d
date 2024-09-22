@@ -1,0 +1,1 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/sbf-solana-solana/release/transfer_sol.so: /mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/programs/transfer-sol/src/lib.rs

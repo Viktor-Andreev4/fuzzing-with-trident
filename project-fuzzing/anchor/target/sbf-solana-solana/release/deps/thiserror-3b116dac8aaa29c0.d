@@ -1,0 +1,10 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/sbf-solana-solana/release/deps/libthiserror-3b116dac8aaa29c0.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/sbf-solana-solana/release/deps/libthiserror-3b116dac8aaa29c0.rlib: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/sbf-solana-solana/release/deps/thiserror-3b116dac8aaa29c0.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/aserror.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/display.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.63/src/provide.rs:

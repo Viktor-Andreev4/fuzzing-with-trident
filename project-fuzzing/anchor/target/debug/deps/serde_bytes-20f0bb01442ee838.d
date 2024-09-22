@@ -1,0 +1,10 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/libserde_bytes-20f0bb01442ee838.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/serde_bytes-20f0bb01442ee838.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs:

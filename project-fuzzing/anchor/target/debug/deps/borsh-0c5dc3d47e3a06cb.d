@@ -1,0 +1,11 @@
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/libborsh-0c5dc3d47e3a06cb.rmeta: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/mnt/d/Programming/web3/Solana/program-examples/basics/transfer-sol/anchor/target/debug/deps/borsh-0c5dc3d47e3a06cb.d: /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs /home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs
+
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/lib.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/mod.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/de/hint.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/schema_helpers.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/mod.rs:
+/home/fisher/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.9.3/src/ser/helpers.rs:
